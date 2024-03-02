@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">ANDROID_1</string>
+    <string name="title_activity_linear_layout">Linear Layout</string>
+    <string name="linear_title">Linear Layout</string>
+    <string name="constraint_title">Constraint Layout</string>
+    <string name="relative_title">Relative Layout</string>
+    <string name="go_to_linear_button_title">Go to Linear Laouyt</string>
+    <string name="go_to_constraint_button_title">Go to Constraint Laouyt</string>
+    <string name="go_to_relative_button_title">Go to Reltive Laouyt</string>
+    <string name="save_button_title">Save</string>
+    <string name="content_title">Initial value</string>
+    <string name="input_placeholder">Input</string>
 </resources>
+
