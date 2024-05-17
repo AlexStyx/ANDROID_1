@@ -10,5 +10,8 @@
     <string name="save_button_title">Save</string>
     <string name="content_title">Initial value</string>
     <string name="input_placeholder">Input</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="LOG_TAG">LOG_TAG</string>
 </resources>
 
